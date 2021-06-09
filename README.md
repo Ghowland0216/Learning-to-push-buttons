@@ -18,8 +18,8 @@
          value="Change Text"
          onclick="changeText()">
 </p>
-Result Skip Results Iframe
-$brandColor: #55ACEE;
+
+<link rel="stylesheet" type="text/css" href="style.css">
 
 body {
   font-family: system-ui;
@@ -28,7 +28,7 @@ body {
     darken($brandColor, 15%)
   );
   color: white;
-  height: 100vh;
+  height: 80vh;
   margin: 0;
   display: grid;
   place-items: center;
@@ -41,7 +41,7 @@ body {
 }
 function changeColor() {
   var divElement1=
-  doument.getElementById("div1");
+  document.getElementById("div1");
   var divElement2 =
   document.getElement.classname = 
   "blueback";
