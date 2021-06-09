@@ -18,3 +18,24 @@
          value="Change Text"
          onclick="changeText()">
 </p>
+Result Skip Results Iframe
+$brandColor: #55ACEE;
+
+body {
+  font-family: system-ui;
+  background: linear-gradient(to bottom,
+    $brandColor,
+    darken($brandColor, 15%)
+  );
+  color: white;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
+.orangeback {
+  background-color: orange;
+}
+.blueback {
+  background-color: blue;
+}
