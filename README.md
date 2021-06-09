@@ -39,3 +39,21 @@ body {
 .blueback {
   background-color: blue;
 }
+function changeColor() {
+  var divElement1=
+  doument.getElementById("div1");
+  var divElement2 =
+  document.getElement.classname = 
+  "blueback";
+  divElement2.className =
+  "orangeback";
+}
+Fuction changeText() {
+  var divElement1 =
+  document.getElementById("div1");
+  var divElement2 = 
+  document.getElementById("div2");
+    divElement1.innerHTML =
+  "Erste";
+    divElement2.innerHTML =
+  "Zweite";
