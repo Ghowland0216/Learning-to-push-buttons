@@ -26,7 +26,7 @@ body {
   font-family: system-ui;
   background: linear-gradient to bottom,
     $brandColor,
-    darken($brandColor, 15%;
+    darken $brandColor, 15%;
   color: white;
   height: 80vh;
   margin: 0;
