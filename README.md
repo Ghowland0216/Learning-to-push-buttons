@@ -19,7 +19,8 @@
          onclick="changeText()">
 </p>
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" 
+      href="style.css">
 
 body {
   font-family: system-ui;
