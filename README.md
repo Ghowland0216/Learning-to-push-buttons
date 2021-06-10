@@ -22,8 +22,8 @@
 <link rel="stylesheet" type="text/css" 
       href="style.css">
 
-body {
-  font-family: system-ui;
+<body> {
+  font-family= ariel;
   background: linear-gradient to bottom,
     $brandColor,
     darken $brandColor, 15%;
